@@ -1,0 +1,64 @@
+#logotype{
+    margin-left: 7vh;
+}
+
+.carsl{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+background-color: rgb(223, 52, 52);
+height: 10vh;
+}
+
+.tarjetas{
+    background-color:rgb(223, 52, 52);
+    color: white;
+    padding: 3vh;
+}
+
+.card{
+    border:none;
+}
+
+.align{
+    margin-top: 5vh;
+}
+
+.btnl{
+    color:white;
+    border:2px solid white;
+    padding: 2vh;
+    background-color: rgba(0, 0, 0, 0.425);
+}
+.red{
+    border: 3px solid rgb(223, 52, 52);
+    margin: 0px
+
+}
+
+.list{
+    list-style: none;
+}
+
+hr{
+    margin:3px;
+}
+
+footer{
+    background-color: rgb(43, 47, 49);
+    color: rgb(230, 230, 230);
+    padding: 3vh
+}
+
+.dark{
+    background-color: rgb(29, 29, 29);
+    color: rgb(230, 230, 230);
+    height: 15vh;
+}
+
+.meta{
+font-size: 10px;
+    }
